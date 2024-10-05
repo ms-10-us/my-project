@@ -1,0 +1,160 @@
+### Step 2A
+/c/Users/mazen
+
+
+### Step 2B
+$ cd ~/OneDrive/Desktop
+
+
+### Step 2C
+cd unit1-git-practice/
+
+### Step 2D
+$ pwd
+/c/Users/mazen/OneDrive/Desktop/unit1-git-practice
+
+### Step 2E
+$ ls
+my-steps.txt
+
+
+### Step 2F
+cd ~
+
+
+### Step 2G
+pwd
+/c/Users/mazen
+
+### Step 2H
+
+
+### Step 2I
+
+
+### Step 2J
+
+
+### Step 2K
+
+
+
+### Step 3A
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir veggies
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir meats
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir desserts
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ ls
+desserts/  meats/  my-steps.txt  veggies/
+
+
+### Step 3B
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mv desserts sweets
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ ls
+meats/  my-steps.txt  sweets/  veggies/
+
+### Step 3C
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir proteins
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ ls
+meats/  my-steps.txt  proteins/  sweets/  veggies/
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+
+
+### Step 3D
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mv meats/ proteins/
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ ls
+my-steps.txt  proteins/  sweets/  veggies/
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cd proteins/
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice/proteins
+$ ls
+meats/
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice/proteins
+
+
+### Step 3E
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+$ touch carrot.txt
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+$ touch pea.txt
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+$ ls
+carrot.txt  pea.txt
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+
+
+### Step 3F
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+$ cd ..
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ ls
+my-steps.txt  proteins/  sweets/  veggies/
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cd sweets/
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice/sweets
+$ touch cookie.txt
+
+mazen@MazenSaber MINGW64 ~/OneDrive/Desktop/unit1-git-practice/sweets
+
+
+### Step 3G
+
+
+### Step 3H
+
+
+### Step 3I
+
+
+### Step 3J
+
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
